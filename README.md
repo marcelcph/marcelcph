@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelcph&label=Profile%20views&color=0e75b6&style=flat" alt="marcelcph" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcelcph" alt="marcelcph" /></a> </p>
-
 - 🔭 I’m currently working on finishing my bachelordegree in Web Developmentrking on **Web Development**
 
 <h3 align="left">Connect with me:</h3>
