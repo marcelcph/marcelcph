@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on finishing my bachelordegree in Web Developmentrking on Web Development<br>
+🔭 I’m currently working on finishing my bachelordegree in Web Development on Web Development<br>
 
 
 ## 🌐 Socials:
