@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on finishing my bachelordegree in Web Development<br>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcel-mortensen-86a48014b) 
 
